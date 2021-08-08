@@ -1,0 +1,37 @@
+
+    {
+        "id": 1,
+        "question": "ASCII codes has ____________ bits ?",
+        "options": ['8', '4', '16', '2'],
+        "answer_index": 1,
+      },
+  
+
+    
+{
+    "id": 6,
+    "question": "Which of the following is not a type of computer code related to Program Execution ?",
+    "options": ['Source Code', 'Byte Code', 'Machine Code', 'Hex Code'],
+    "answer_index": 4,
+  },
+  {
+    "id": 7,
+    "question": "Which of the following includes Chrome's V8 JavaScript Engine ?",
+    "options": ['jQuery', 'Java', 'npm', 'Node.js'],
+    "answer_index": 4,
+  },
+  {
+    "id": 8,
+    "question": "Identify the C compiler of UNIX.",
+    "options": ['gcc', 'cc', 'Borland', 'vc++'],
+    "answer_index": 2,
+  },
+  {
+    "id": 9,
+    "question": "To print a float value which format specifier can be used ?",
+    "options": ['%f', '%lf', '%Lf', '/f'],
+    "answer_index": 1,
+  },
+
+
+   
